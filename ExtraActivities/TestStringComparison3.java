@@ -1,4 +1,4 @@
-package com.perscholas.java_basics;
+package ExtraActivities;
 
 public class TestStringComparison3 {
     public static void main(String[] args) {
