@@ -1,5 +1,3 @@
-package org.example;
-
 import java.sql.*;
 public class Insert_preparedSt_Example {
     public static void main(String[] args) {

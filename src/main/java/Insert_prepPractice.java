@@ -1,5 +1,3 @@
-package org.example;
-
 import java.sql.*;
 public class Insert_prepPractice {
     public static void main(String[] args) {
